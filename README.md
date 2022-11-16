@@ -1,16 +1,3 @@
-# atak_sistemas_teste
+# Flutter Google Search App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Código desenvolvido utilizando Flutter, para que ele funcione é necessario primeiro rodar a API desenvolvida em Node que está em https://github.com/cesarmartins1245/google-search-api-with-puppeteer-in-node, com ela rodando e com flutter instalado é necessario apenas rodar o aplicativo com flutter run, os testes foram feitos utilizando o Flutter Web.
